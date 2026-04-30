@@ -16,8 +16,9 @@ var reverse = function (x) {
 
     }
 
+     let ans = reverse * Math.sign(x)
      
-    return  ans < MAX && ans > MIN ? reverse * Math.sign(x) : 0
+    return  ans < MAX && ans > MIN ? ans  : 0
 
 
 };
