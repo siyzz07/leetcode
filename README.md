@@ -23,10 +23,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0041-first-missing-positive](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,8 +46,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0049-group-anagrams](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
