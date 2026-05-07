@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0135-candy](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +67,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0135-candy](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 <!---LeetCode Topics End-->
