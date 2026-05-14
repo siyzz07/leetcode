@@ -29,11 +29,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0135-candy](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [2553-separate-the-digits-in-an-array](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
