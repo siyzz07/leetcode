@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0278-first-bad-version](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 | [2540-minimum-common-value](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 ## Divide and Conquer
