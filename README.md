@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [1154-day-of-the-year](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1154-day-of-the-year/) | Easy |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
