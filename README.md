@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0202-happy-number](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [1154-day-of-the-year](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1154-day-of-the-year/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [2540-minimum-common-value](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
