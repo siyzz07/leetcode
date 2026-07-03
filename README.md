@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0202-happy-number](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
+| [0292-nim-game](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 | [0441-arranging-coins](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 | [1154-day-of-the-year](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1154-day-of-the-year/) | Easy |
 ## Recursion
@@ -155,4 +156,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
