@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0135-candy](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0442-find-all-duplicates-in-an-array](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0819-most-common-word](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1389-create-target-array-in-the-given-order/) | Easy |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0278-first-bad-version](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 | [0441-arranging-coins](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [2540-minimum-common-value](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
