@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
