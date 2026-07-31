@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0135-candy](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0189-rotate-array](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0819-most-common-word](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0278-first-bad-version](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0441-arranging-coins](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [2540-minimum-common-value](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [2540-minimum-common-value](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -182,4 +185,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
