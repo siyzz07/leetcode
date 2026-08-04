@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
+| [3731-find-missing-elements](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3731-find-missing-elements](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [2126-destroying-asteroids](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
+| [3731-find-missing-elements](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
