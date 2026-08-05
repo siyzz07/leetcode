@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
+| [0389-find-the-difference](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0819-most-common-word](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0389-find-the-difference](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0819-most-common-word](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1154-day-of-the-year](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1154-day-of-the-year/) | Easy |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0389-find-the-difference](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [2126-destroying-asteroids](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
@@ -194,4 +197,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0389-find-the-difference](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 <!---LeetCode Topics End-->
