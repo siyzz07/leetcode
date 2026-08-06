@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 | [0441-arranging-coins](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 | [1154-day-of-the-year](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1154-day-of-the-year/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,4 +199,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0389-find-the-difference](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
