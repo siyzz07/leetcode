@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0819-most-common-word](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
+| [0942-di-string-match](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0942-di-string-match/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1389-create-target-array-in-the-given-order/) | Easy |
 | [1528-shuffle-string](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1528-shuffle-string/) | Easy |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0819-most-common-word](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
+| [0942-di-string-match](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0942-di-string-match/) | Easy |
 | [1154-day-of-the-year](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1154-day-of-the-year/) | Easy |
 | [1528-shuffle-string](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1528-shuffle-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -134,12 +136,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0942-di-string-match](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0942-di-string-match/) | Easy |
 | [2540-minimum-common-value](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0135-candy](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Hard/0135-candy/) | Hard |
+| [0942-di-string-match](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0942-di-string-match/) | Easy |
 | [2126-destroying-asteroids](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
