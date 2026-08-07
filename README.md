@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1154-day-of-the-year](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1154-day-of-the-year/) | Easy |
 | [1528-shuffle-string](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1528-shuffle-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1844-replace-all-digits-with-characters](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1844-replace-all-digits-with-characters/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
