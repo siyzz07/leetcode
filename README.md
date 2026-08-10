@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0819-most-common-word](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 | [0942-di-string-match](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0942-di-string-match/) | Easy |
+| [0944-delete-columns-to-make-sorted](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1389-create-target-array-in-the-given-order/) | Easy |
 | [1528-shuffle-string](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1528-shuffle-string/) | Easy |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0819-most-common-word](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0942-di-string-match](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0942-di-string-match/) | Easy |
+| [0944-delete-columns-to-make-sorted](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
 | [1154-day-of-the-year](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1154-day-of-the-year/) | Easy |
 | [1528-shuffle-string](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1528-shuffle-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -218,4 +220,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
 <!---LeetCode Topics End-->
