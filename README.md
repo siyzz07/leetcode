@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1844-replace-all-digits-with-characters/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/1389-create-target-array-in-the-given-order/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
