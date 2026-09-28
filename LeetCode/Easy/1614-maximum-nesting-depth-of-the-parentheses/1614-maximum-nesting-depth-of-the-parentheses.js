@@ -13,14 +13,8 @@ var maxDepth = function(s) {
             max = stack.length
         }
     }
-
-    if(val == ")"){
-        stack.pop()
-        if(max<stack.length){
-            max =stack.length
-        }
-    }
-   }  
+    if(val == ")") stack.pop()
+     }  
    return max
-   
+
 };
