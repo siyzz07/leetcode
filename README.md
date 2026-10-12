@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0500-keyboard-row/) | Easy |
+| [0605-can-place-flowers](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0819-most-common-word](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 | [0942-di-string-match](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0942-di-string-match/) | Easy |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0135-candy](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Hard/0135-candy/) | Hard |
+| [0605-can-place-flowers](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0942-di-string-match](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Easy/0942-di-string-match/) | Easy |
 | [2126-destroying-asteroids](https://github.com/siyzz07/leetcode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 ## Simulation
